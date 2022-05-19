@@ -5,7 +5,7 @@ values
 
 ## To use
 
-    import { betterSwitch } from 'https://deno.land/x/better_switch@v1.0.15/mod.ts'
+    import { betterSwitch } from 'https://deno.land/x/better_switch_deno@v1.0.1/mod.ts'
 
 ## Examples
 
